@@ -1,8 +1,3 @@
-<h1>
-    <span>Profile README - Fernando Anísio Goulart</span>
-</h1>
----
-
 # Fernando Anísio Goulart
 Brasileiro, de Minas Gerais, sou formado em gestão comercial e atualmente estou me formando em Analise e Desenvolvimento de Sistemas na PUC Minas. Meu objetivo é desenvolver habilidades de Cientista de dados. Também gosto muito de 3D design e gosto de desenvolver em Unreal e Blender.
 
