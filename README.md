@@ -20,13 +20,13 @@ Brasileiro, de Minas Gerais, sou formado em gestão comercial e atualmente estou
 
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandodelin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandodelin&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandodelin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandodelin&layout=compact&bg_color=000&border_color=30A3DC&title_color=B6D7A8&text_color=FFF)
 
 ### Meus Principais Repositório GitHub
-[![Projeto Curriculum vitae page online](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=cv&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fernandodelin/cv)
-[![Projeto Gerenciamento de rotas](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=Colab_gerenciamento_de_rotas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fernandodelin/Colab_gerenciamento_de_rotas)
-[![Python - Curso em Video](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=vs_projects_python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fernandodelin/vs_projects_python)
-[![Python - Jogo Snake](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=py_snake&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fernandodelin/py_snake)
+[![Projeto Curriculum vitae page online](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=cv&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/cv)
+[![Projeto Gerenciamento de rotas](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=Colab_gerenciamento_de_rotas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/Colab_gerenciamento_de_rotas)
+[![Python - Curso em Video](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=vs_projects_python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/vs_projects_python)
+[![Python - Jogo Snake](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=py_snake&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/py_snake)
 
 ---
