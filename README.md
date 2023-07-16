@@ -11,7 +11,7 @@ Brasileiro, de Minas Gerais, sou formado em gestão comercial e atualmente estou
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![BLENDER](https://img.shields.io/badge/BLENDER-000?style=for-the-badge&logo=Blender&logoColor=EEAD2D)
-![MYSQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=MYSLQ&logoColor=30A3DC)
+![MYSQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=Mysql&logoColor=30A3DC)
 ![UNREAL](https://img.shields.io/badge/UNREAL-000?style=for-the-badge&logo=Unreal&logoColor=FFFFFF)
 ![POWERBI](https://img.shields.io/badge/POWERBI-000?style=for-the-badge&logo=PowerBI&logoColor=EEAD2D)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=FFFF00)
