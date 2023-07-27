@@ -1,5 +1,5 @@
 # Fernando Anísio Goulart
-Brasileiro, de Minas Gerais, sou formado em gestão comercial e atualmente estou me formando em Analise e Desenvolvimento de Sistemas na PUC Minas. Meu objetivo é desenvolver habilidades de Cientista de dados. Também gosto muito de 3D design e gosto de desenvolver em Unreal e Blender.
+Brasileiro, de Minas Gerais, sou formado em gestão comercial e atualmente estou me formando em Analise e Desenvolvimento de Sistemas na PUC Minas. Meu objetivo é desenvolver habilidades de Cientista de dados e desenvolvimento de softwares. Também gosto muito de 3D design e gosto de desenvolver em Unreal e Blender.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/viapythoncolab/)
