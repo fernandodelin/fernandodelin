@@ -8,6 +8,7 @@ Brasileiro, de Minas Gerais, sou formado em gestão comercial e atualmente estou
 
 
 ### Habilidades
+
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![BLENDER](https://img.shields.io/badge/BLENDER-000?style=for-the-badge&logo=Blender&logoColor=EEAD2D)
@@ -21,6 +22,7 @@ Brasileiro, de Minas Gerais, sou formado em gestão comercial e atualmente estou
 
 
 ### GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandodelin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandodelin&layout=compact&bg_color=000&border_color=30A3DC&title_color=B6D7A8&text_color=FFF)
