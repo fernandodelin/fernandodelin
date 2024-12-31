@@ -1,21 +1,21 @@
 # Fernando Anísio Goulart
 
-### Sobre Mim 👋
+# Sobre Mim 👋
 
-Olá! Sou um entusiasta da tecnologia e atualmente estou focado em aprender **JavaScript** e **PHP**. Além disso, estou mergulhando no mundo fascinante da **Segurança da Informação**. Adoro entender como funciona o desenvolvimento de aplicações e sites, e estou sempre em busca de novos conhecimentos e desafios.
+Olá! Sou um entusiasta da tecnologia, atualmente focado em **desenvolvimento web** e explorando o fascinante mundo da **Segurança da Informação**. Iniciei minha jornada no mundo da programação em 2022 com **Python**, onde pude aprender muito sobre lógica e conceitos básicos de programação. Em 2023, iniciei uma jornada em **Análise e Desenvolvimento de Sistemas** na Faculdade PUC Minas, aprofundando-me em fundamentos como lógica, semântica e muito mais.
 
-### O que Estou Estudando 📚
+Durante esse período, tive contato com **C#** e desenvolvi um projeto interessante. No entanto, desde então, tenho me dedicado a aprender sobre desenvolvimento web e, recentemente, mudei meu foco para **Segurança da Informação**. Adoro entender como funcionam aplicações e sites, e estou sempre em busca de novos conhecimentos e desafios.
 
-- **JavaScript**: Explorando tudo, desde o básico até frameworks avançados.
-- **PHP**: Construindo aplicações web robustas e dinâmicas.
-- **Segurança da Informação**: Garantindo que minhas aplicações e sites sejam seguros e confiáveis.
-- **Python**: Desenvolvendo soluções versáteis e poderosas.
-- **C#**: Aplicando programação orientada a objetos em diversos projetos.
-- **Bancos de Dados**: Trabalhando com SQL e NoSQL para gestão eficiente de dados.
-- **Git e GitHub**: Versionando código e colaborando em projetos.
-- **Nodejs**: Criando aplicações escaláveis e de alta performance.
+## O que Estou Estudando 📚
 
-### O que Me Motiva 💡
+- **JavaScript**: Explorando tudo, desde o básico até frameworks avançados, para criar aplicações dinâmicas e interativas.
+- **PHP**: Construindo aplicações web robustas e dinâmicas, com ênfase em **Laravel** para desenvolvimento ágil e eficiente.
+- **Segurança da Informação**: Garantindo que minhas aplicações e sites sejam seguros e confiáveis, aprendendo sobre melhores práticas e técnicas de proteção.
+- **TypeScript**: Aprimorando o JavaScript com tipagem estática, tornando o código mais seguro e fácil de manter.
+- **React**: Desenvolvendo interfaces de usuário ricas e responsivas, aproveitando a flexibilidade e a eficiência do React.
+- **Next.js**: Criando aplicações React com renderização do lado do servidor, melhorando a performance e a experiência do usuário.
+
+## O que Me Motiva 💡
 
 Tenho um grande interesse em compreender todo o processo de desenvolvimento, desde a concepção até a implementação e segurança das aplicações. Acredito que uma base sólida em desenvolvimento e segurança é essencial para criar soluções tecnológicas inovadoras e eficazes.
 
@@ -45,7 +45,7 @@ Tenho um grande interesse em compreender todo o processo de desenvolvimento, des
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fernandodelin&layout=compact&bg_color=000&border_color=30A3DC&title_color=B6D7A8&text_color=FFF)
 
 ### Meus Principais Repositório GitHub
-[![Curso Formação Node.JS](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=cv&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)]([https://github.com/fernandodelin/cv](https://github.com/fernandodelin/formacao-nodejs))
+[![Curso Formação Node.JS](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=formacao-nodejs&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/formacao-nodejs)
 [![Projeto Gerenciamento de rotas](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=Colab_gerenciamento_de_rotas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/Colab_gerenciamento_de_rotas)
 [![Python - Curso em Video](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=vs_projects_python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/vs_projects_python)
 [![Python - Jogo Snake](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=py_snake&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/py_snake)
