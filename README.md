@@ -19,10 +19,19 @@ Durante esse período, tive contato com **C#** e desenvolvi um projeto interessa
 
 Tenho um grande interesse em compreender todo o processo de desenvolvimento, desde a concepção até a implementação e segurança das aplicações. Acredito que uma base sólida em desenvolvimento e segurança é essencial para criar soluções tecnológicas inovadoras e eficazes.
 
+## Hobbies e Interesses 🌍
+
+Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialmente para ter contato com a natureza e conhecer lugares novos. Também sou especialista em **manutenção de micros e notebooks**, o que me permite explorar ainda mais o mundo da tecnologia de forma prática.
+
 
 ### Conecte-se comigo
+
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/viapythoncolab/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:fernandoanisiomail@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-3f729b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandoanisio0/)
+[![Twitch](https://img.shields.io/badge/-Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/anisio_0)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vCk4Fne7)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fernandoanisio1/)
 
 
 ### Habilidades
@@ -33,6 +42,7 @@ Tenho um grande interesse em compreender todo o processo de desenvolvimento, des
 ![MYSQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=Mysql&logoColor=30A3DC)
 ![POWERBI](https://img.shields.io/badge/POWERBI-000?style=for-the-badge&logo=PowerBI&logoColor=EEAD2D)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=FFFF00)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=68A063)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 [![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=CSharp&logoColor=30A3DC)](https://docs.github.com/)
