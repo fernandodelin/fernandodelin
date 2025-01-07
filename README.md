@@ -62,4 +62,9 @@ Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialme
 [![Python - Jogo Snake](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=py_snake&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/py_snake)
 [![Projeto DIO - C# Desafio Construindo sistema de agendamento de tarefas com Entity Framework](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=trilha-net-api-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/trilha-net-api-desafio)
 [![Projeto Aplicação Web - Django - Agenda de Consultas](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=AppAgendaV2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/AppAgendaV2)
+
+
+
+
+
 ---
