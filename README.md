@@ -52,9 +52,12 @@ Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialme
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fernandodelin&color=green)
 
+![home](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandodelin&theme=vue)
 
 ![Top Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandodelin&theme=vue)
-![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=vue)
+![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandodelin&theme=vue)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandodelin&theme=vue)
+
 
 ### Meus Principais Repositório GitHub
 [![Curso Formação Node.JS](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=formacao-nodejs&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/formacao-nodejs)
