@@ -49,7 +49,10 @@ Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialme
 
 
 ### GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=fernandodelin&color=greem)
+
+![Profile Views](https://komarev.com/ghpvc/?username=fernandodelin&color=green)
+
+
 ![Top Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandodelin&theme=vue)
 ![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=vue)
 
