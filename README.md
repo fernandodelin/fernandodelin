@@ -52,11 +52,11 @@ Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialme
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fernandodelin&color=green)
 
-![home](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandodelin&theme=vue)
+![home](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandodelin&theme=gotham)
 
-![Top Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandodelin&theme=vue)
-![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandodelin&theme=vue)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandodelin&theme=vue)
+![Top Languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandodelin&theme=gotham)
+![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandodelin&theme=gotham)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandodelin&theme=gotham)
 
 
 ### Meus Principais Repositório GitHub
