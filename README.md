@@ -40,12 +40,11 @@ Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialme
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JAVASCRIPT](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=Javascript&logoColor=FFFF00)
 ![MYSQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=Mysql&logoColor=30A3DC)
-![POWERBI](https://img.shields.io/badge/POWERBI-000?style=for-the-badge&logo=PowerBI&logoColor=EEAD2D)
+![POWERBI](https://img.shields.io/badge/POWERBI-000?style=for-the-badge&logo=Powerbi&logoColor=EEAD2D)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=FFFF00)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=68A063)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![C#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=CSharp&logoColor=30A3DC)](https://docs.github.com/)
 
 
 ### GitHub Stats
