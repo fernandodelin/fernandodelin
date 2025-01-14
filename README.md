@@ -68,6 +68,4 @@ Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialme
 
 
 
-
-
 ---
