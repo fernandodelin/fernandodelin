@@ -58,6 +58,7 @@ Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialme
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandodelin&theme=gotham)
 ![CommitsHours](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fernandodelin&theme=gotham&utcOffset=8)
 
+
 ### Meus Principais Repositório GitHub
 [![Curso Formação Node.JS](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=formacao-nodejs&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/formacao-nodejs)
 [![Projeto Gerenciamento de rotas](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=Colab_gerenciamento_de_rotas&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/Colab_gerenciamento_de_rotas)
