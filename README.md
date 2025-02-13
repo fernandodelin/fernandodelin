@@ -8,7 +8,6 @@ Durante esse período, tive contato com **C#** e desenvolvi um projeto interessa
 
 ## O que Estou Estudando 📚
 
-- **JavaScript**: Explorando tudo, desde o básico até frameworks avançados, para criar aplicações dinâmicas e interativas.
 - **PHP**: Construindo aplicações web robustas e dinâmicas, com ênfase em **Laravel** para desenvolvimento ágil e eficiente.
 - **Segurança da Informação**: Garantindo que minhas aplicações e sites sejam seguros e confiáveis, aprendendo sobre melhores práticas e técnicas de proteção.
 - **TypeScript**: Aprimorando o JavaScript com tipagem estática, tornando o código mais seguro e fácil de manter.
