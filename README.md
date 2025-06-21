@@ -12,7 +12,6 @@ Durante esse período, tive contato com **C#** e desenvolvi um projeto interessa
 - **Segurança da Informação**: Garantindo que minhas aplicações e sites sejam seguros e confiáveis, aprendendo sobre melhores práticas e técnicas de proteção.
 - **TypeScript**: Aprimorando o JavaScript com tipagem estática, tornando o código mais seguro e fácil de manter.
 - **React**: Desenvolvendo interfaces de usuário ricas e responsivas, aproveitando a flexibilidade e a eficiência do React.
-- **Next.js**: Criando aplicações React com renderização do lado do servidor, melhorando a performance e a experiência do usuário.
 
 ## O que Me Motiva 💡
 
@@ -58,10 +57,10 @@ Além da tecnologia, sou apaixonado por **games** e adoro **viajar**, especialme
 
 
 ### Meus Principais Repositório GitHub
-[![Curso Formação Node.JS](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=formacao-nodejs&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/formacao-nodejs)
+[![JavaScript - Curso Formação Node.JS](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=formacao-nodejs&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/formacao-nodejs)
 [![Projeto Gerenciamento de rotas](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=Colab_gerenciamento_de_rotas&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/Colab_gerenciamento_de_rotas)
-[![Python - Curso em Video](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=vs_projects_python&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/vs_projects_python)
-[![Python - Jogo Snake](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=py_snake&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/py_snake)
+[![Java - Curso fundamentos Java](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=Formacao-java-fundamentals&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/vs_projects_python)
+[![Python - Sistema ERP Django backend](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=System-ERP-Django-backend&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/py_snake)
 [![Projeto DIO - C# Desafio Construindo sistema de agendamento de tarefas com Entity Framework](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=trilha-net-api-desafio&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/trilha-net-api-desafio)
 [![Projeto Aplicação Web - Django - Agenda de Consultas](https://github-readme-stats.vercel.app/api/pin/?username=fernandodelin&repo=AppAgendaV2&theme=shadow_blue&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=B6D7A8&text_color=FFF)](https://github.com/fernandodelin/AppAgendaV2)
 
